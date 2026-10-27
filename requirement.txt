@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-learn
-networkx
-matplotlib
-sentence-transformers
-google-genai
-openpyxl
